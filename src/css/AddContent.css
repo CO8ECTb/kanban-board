@@ -1,0 +1,52 @@
+.postFrame{
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 94%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    cursor: pointer;
+    outline: none;
+    box-shadow: 0 0 8px rgba(78, 78, 78, 0.5);
+}
+
+.textAreaBlock{
+    margin-left: 2%;
+    margin-right: 5%;
+    text-outline: none;
+}
+
+.textArea {
+    width: inherit;
+    outline: none;
+    border: none;
+    font-size: 90%;
+    color: black;
+}
+
+.closeIcon {
+    float: right;
+    margin-bottom: 5%;
+    margin-right: 4%;
+    margin-top: 2%;
+    font-size: 150%;
+    font-weight: lighter;
+}
+
+.submitButton{
+    margin-bottom: 5%;
+    margin-left: 3%;
+    margin-top: 2%;
+    color: white;
+    font-size: 90%;
+    font-weight: bold;
+    border: 1px solid #39C071;
+    border-radius: 5px;
+    background-color: #39C071;
+    padding: 2% 3% 2% 3%;
+    width: auto;
+
+}

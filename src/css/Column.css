@@ -1,0 +1,36 @@
+.column {
+    background: #D7DCE0;
+    width: inherit;
+    border-radius: 5px;
+    white-space: normal;
+    overflow-y: scroll;
+}
+
+.text{
+    width: auto;
+    white-space: normal;
+    overflow-y: scroll;
+    border-radius: 5px;
+}
+
+.columnTitle{
+    margin-left: 3%;
+    width: auto;
+    white-space: normal;
+    overflow-x: hidden;
+}
+
+.fixedColumn{
+    margin-right: 1%;
+    margin-top: 1%;
+    position: center;
+    display: inline-block;
+    vertical-align: top;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}

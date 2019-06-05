@@ -1,0 +1,21 @@
+.postFrame{
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 92%;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 2%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    cursor: pointer;
+    outline: none;
+    overflow-wrap: break-word;
+    box-shadow: 0 0 8px rgba(126, 126, 126, 0.5);
+}
+
+.postContent{
+    margin-left: 2%;
+    margin-right: 5%;
+    text-outline: none;
+}

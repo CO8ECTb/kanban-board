@@ -1,0 +1,11 @@
+.workspace{
+    overflow: auto;
+    -ms-overflow-style: none;
+    white-space: nowrap;
+    position: relative;
+}
+
+.centred-div{
+    margin: 0px 1% 0px 1%;
+}
+

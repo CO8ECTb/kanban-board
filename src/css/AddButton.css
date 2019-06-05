@@ -1,0 +1,17 @@
+.addButton{
+    background-color: transparent;
+    color: #586D79;
+    text-align: left;
+    padding: 3% 0% 3% 3%;
+    font-size: 90%;
+    width: 100%;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.fa-plus {
+    font-size: 90%;
+    color: #586D79;
+    padding-right: 2%;
+}
